@@ -1,2 +1,5 @@
 # MacbookAnimation
-My MacbookAnimation project is about me trying to recreate my own version of an apple commericial using the 3D mdoeling software blender please read the README for more contex!
+Hello I am 13 years old I made a MacBookAnimation the goal for me was to rereate an apple commericial but make it my own by adding my own scene while having the style that apple does. I also wanted it to be good enough that maybe it could pass as an apple commericial, I also wanted to show them but they have a policy whre they cant look at fan art but its okay I am sharing it to you guys. I made this using beldner and the text and some of the trasition where added on after using an editing software called capcut. It took me about 12 hours to make this and I wanted to say that I learned a lot by doing these this was fmy first time ever creating an animation this good I am happy and suprised with my final result. I hope you guys really enjoy it!!!
+
+I had to write this becuase google told me to: 
+Disclaimer  This is an independent artistic animation. It is not affiliated with, endorsed by, or sponsored by Apple Inc. All product names, logos, and brands are property of their respective owners. 
